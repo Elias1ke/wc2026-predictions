@@ -1,0 +1,4 @@
+# Ignore generated raw and processed data
+/data/raw/martj42_international_results.csv
+/data/raw/clubeelo/
+/data/processed/*.csv
